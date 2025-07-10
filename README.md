@@ -1,2 +1,2 @@
 # Forecasting-Market-Share-of-Mobile-in-Device-Market
-# The share of Mobile in the Device Market has been modeled using ARIMA modelling. The dataset contains monthly data on the percentage of market share for each month from 2008 to 2020
+This project analyzes the market share trends of mobile in the Indian device market from 2008 to 2020 using time series techniques. The ARIMA (AutoRegressive Integrated Moving Average) model is applied to capture underlying patterns, seasonality, and trends in the data. After model fitting and diagnostics, the trained ARIMA model is used to forecast future market share dynamics, providing insights into brand performance and potential shifts in consumer preference.
